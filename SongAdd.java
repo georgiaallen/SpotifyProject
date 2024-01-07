@@ -8,7 +8,7 @@ public class SongAdd {
     public SongAdd() {
         songs = new ArrayList<>();
 // Addition of songs to the playlist with title, artist and stream count
-        songs.add(new Song("Blinding Lights", "The Weeknd", 2106158897));
+        songs.add(new Song("Blinding Lights", "The Weekend", 2106158897));
         songs.add(new Song("22", "Taylor Swift", 207124019));
         songs.add(new Song("Runaway", "Kanye West", 507008104));
         songs.add(new Song("Someone Like You", "Adele", 1733304688));
